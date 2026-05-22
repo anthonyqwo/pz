@@ -1,0 +1,47 @@
+{
+  "image": "d:\\pz\\output.jpg",
+  "grid": "40x25",
+  "expected_pieces": 1000,
+  "detected_pieces": 1000,
+  "missing_pieces": 0,
+  "cell_size": {
+    "w": 96.0,
+    "h": 113.5
+  },
+  "area_stats": {
+    "median": 7463.0,
+    "mean": 7699.3,
+    "std": 2662.0,
+    "min": 3301,
+    "max": 47070
+  },
+  "validation": {
+    "ok": 1000,
+    "missing": 0,
+    "merged_count": 16,
+    "fragment_count": 0,
+    "disconnected_count": 0,
+    "merged_labels": [
+      39,
+      40,
+      80,
+      120,
+      200,
+      240,
+      440,
+      480,
+      600,
+      761,
+      800,
+      840,
+      920,
+      960,
+      961,
+      1000
+    ],
+    "fragment_labels": [],
+    "missing_labels": []
+  },
+  "time_seconds": 250.48,
+  "output_dir": "d:\\pz\\outputs\\grid_voronoi"
+}

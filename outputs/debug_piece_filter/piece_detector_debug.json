@@ -1,0 +1,29 @@
+{
+  "raw_components": 1,
+  "kept_pieces": 0,
+  "rejected_components": [
+    {
+      "id": 1,
+      "area": 24050.0,
+      "bbox": [
+        110,
+        100,
+        176,
+        176
+      ],
+      "bbox_area": 30976.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.776407541322314,
+      "hull_area": 24293.5,
+      "solidity": 0.9899767427501184,
+      "mean_L": 0.0,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_large",
+        "solidity_out_of_range"
+      ]
+    }
+  ],
+  "kept_components": [],
+  "diagnosis": "filter_too_strict"
+}

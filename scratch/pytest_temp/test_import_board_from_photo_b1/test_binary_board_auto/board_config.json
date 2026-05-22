@@ -1,0 +1,195 @@
+{
+  "board_id": "test_binary_board_auto",
+  "version": 1,
+  "rectified_size": [
+    200,
+    200
+  ],
+  "marker_type": "auto_photo",
+  "slots": [
+    {
+      "slot_id": "slot_001",
+      "mask_path": "slots/slot_001_mask.png",
+      "contour": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          97
+        ],
+        [
+          97,
+          97
+        ],
+        [
+          97,
+          3
+        ]
+      ],
+      "rotation_mode": "any",
+      "enabled": true,
+      "area": 8836.0,
+      "perimeter": 376.0,
+      "bbox": [
+        3,
+        3,
+        95,
+        95
+      ],
+      "center": [
+        50.0,
+        50.0
+      ],
+      "aspect_ratio": 1.0
+    },
+    {
+      "slot_id": "slot_002",
+      "mask_path": "slots/slot_002_mask.png",
+      "contour": [
+        [
+          103,
+          3
+        ],
+        [
+          103,
+          97
+        ],
+        [
+          196,
+          97
+        ],
+        [
+          196,
+          3
+        ]
+      ],
+      "rotation_mode": "any",
+      "enabled": true,
+      "area": 8742.0,
+      "perimeter": 374.0,
+      "bbox": [
+        103,
+        3,
+        94,
+        95
+      ],
+      "center": [
+        149.5,
+        50.0
+      ],
+      "aspect_ratio": 0.9894736842105263
+    },
+    {
+      "slot_id": "slot_003",
+      "mask_path": "slots/slot_003_mask.png",
+      "contour": [
+        [
+          3,
+          103
+        ],
+        [
+          3,
+          196
+        ],
+        [
+          97,
+          196
+        ],
+        [
+          97,
+          103
+        ]
+      ],
+      "rotation_mode": "any",
+      "enabled": true,
+      "area": 8742.0,
+      "perimeter": 374.0,
+      "bbox": [
+        3,
+        103,
+        95,
+        94
+      ],
+      "center": [
+        50.0,
+        149.5
+      ],
+      "aspect_ratio": 1.0106382978723405
+    },
+    {
+      "slot_id": "slot_004",
+      "mask_path": "slots/slot_004_mask.png",
+      "contour": [
+        [
+          103,
+          103
+        ],
+        [
+          103,
+          196
+        ],
+        [
+          196,
+          196
+        ],
+        [
+          196,
+          103
+        ]
+      ],
+      "rotation_mode": "any",
+      "enabled": true,
+      "area": 8649.0,
+      "perimeter": 372.0,
+      "bbox": [
+        103,
+        103,
+        94,
+        94
+      ],
+      "center": [
+        149.5,
+        149.5
+      ],
+      "aspect_ratio": 1.0
+    }
+  ],
+  "source_image": "D:\\pz\\scratch\\pytest_temp\\test_import_board_from_photo_b1\\mock_binary_board_auto.png",
+  "detected_corners": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      199.0,
+      0.0
+    ],
+    [
+      199.0,
+      199.0
+    ],
+    [
+      0.0,
+      199.0
+    ]
+  ],
+  "transform_matrix": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "board_id": "board_photo_skeleton_w3",
+  "status": "ok",
+  "image": "C:\\Users\\kioki\\Downloads\\IMG_9269.jpg",
+  "piece_count": 0,
+  "pieces": [],
+  "debug": {
+    "dir": "D:\\pz\\outputs\\debug\\run_20260523_004250",
+    "rectified_image_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\rectified.png",
+    "black_mask_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\black_mask.png",
+    "cleaned_mask_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\cleaned_mask.png",
+    "piece_contour_overlay_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\piece_contour_overlay.png",
+    "top_candidates_overlay_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\top_candidates_overlay.png",
+    "best_match_overlay_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\best_match_overlay.png",
+    "top5_match_overlay_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\top5_match_overlay.png",
+    "match_overlay_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\match_overlay.png",
+    "result_path": "D:\\pz\\outputs\\debug\\run_20260523_004250\\result.json"
+  }
+}

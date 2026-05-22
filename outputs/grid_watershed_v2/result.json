@@ -1,0 +1,36 @@
+{
+  "image": "d:\\pz\\output.jpg",
+  "grid": "40x25",
+  "expected_pieces": 1000,
+  "detected_pieces": 707,
+  "seeds_placed": 999,
+  "area_stats": {
+    "median": 4486.0,
+    "mean": 6297.9,
+    "std": 20342.0,
+    "min": 2703,
+    "max": 384830
+  },
+  "validation": {
+    "good": 707,
+    "still_merged": 12,
+    "still_fragments": 0,
+    "merged_labels": [
+      36,
+      39,
+      421,
+      630,
+      721,
+      6290015,
+      9020001,
+      9020021,
+      9600001,
+      9600002,
+      9600023,
+      9600024
+    ],
+    "fragment_labels": []
+  },
+  "time_seconds": 147.63,
+  "output_dir": "d:\\pz\\outputs\\grid_watershed_v2"
+}

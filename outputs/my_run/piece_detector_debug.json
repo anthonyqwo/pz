@@ -1,0 +1,220 @@
+{
+  "raw_components": 8,
+  "kept_pieces": 4,
+  "rejected_components": [
+    {
+      "id": 5,
+      "area": 3.0,
+      "bbox": [
+        108,
+        624,
+        2,
+        2
+      ],
+      "bbox_area": 4.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 51.0,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 6,
+      "area": 2.0,
+      "bbox": [
+        31,
+        682,
+        2,
+        2
+      ],
+      "bbox_area": 4.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 66.0,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 7,
+      "area": 199.0,
+      "bbox": [
+        24,
+        700,
+        21,
+        19
+      ],
+      "bbox_area": 399.0,
+      "aspect_ratio": 1.105263157894737,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 65.62311557788945,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 8,
+      "area": 43496.0,
+      "bbox": [
+        0,
+        805,
+        307,
+        219
+      ],
+      "bbox_area": 67233.0,
+      "aspect_ratio": 1.4018264840182648,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 20.73280301636932,
+      "touches_border": true,
+      "reject_reasons": [
+        "touches_border"
+      ]
+    }
+  ],
+  "kept_components": [
+    {
+      "piece_id": "piece_001",
+      "area": 12929.0,
+      "bbox": [
+        202,
+        558,
+        172,
+        146
+      ],
+      "center": [
+        286.0339804573697,
+        630.2174053162141
+      ],
+      "features": {
+        "area": 12929.0,
+        "perimeter": 687.034773349762,
+        "bbox": [
+          202,
+          558,
+          172,
+          146
+        ],
+        "center": [
+          286.0339804573697,
+          630.2174053162141
+        ],
+        "aspect_ratio": 1.1768707482993197,
+        "extent": 0.5068813652628682,
+        "solidity": 0.7401102371246483,
+        "mean_L": 16.064152086646974
+      }
+    },
+    {
+      "piece_id": "piece_002",
+      "area": 12668.0,
+      "bbox": [
+        537,
+        483,
+        143,
+        174
+      ],
+      "center": [
+        609.9397826544574,
+        568.2318045468897
+      ],
+      "features": {
+        "area": 12668.0,
+        "perimeter": 713.202778339386,
+        "bbox": [
+          537,
+          483,
+          143,
+          174
+        ],
+        "center": [
+          609.9397826544574,
+          568.2318045468897
+        ],
+        "aspect_ratio": 0.8228571428571428,
+        "extent": 0.5036904761904762,
+        "solidity": 0.7201293543628731,
+        "mean_L": 20.537250384024578
+      }
+    },
+    {
+      "piece_id": "piece_003",
+      "area": 10887.5,
+      "bbox": [
+        429,
+        312,
+        136,
+        155
+      ],
+      "center": [
+        492.3626023727516,
+        388.3975353999234
+      ],
+      "features": {
+        "area": 10887.5,
+        "perimeter": 638.8038108348846,
+        "bbox": [
+          429,
+          312,
+          136,
+          155
+        ],
+        "center": [
+          492.3626023727516,
+          388.3975353999234
+        ],
+        "aspect_ratio": 0.8782051282051282,
+        "extent": 0.5099429159648138,
+        "solidity": 0.716464516977287,
+        "mean_L": 18.107222569413445
+      }
+    },
+    {
+      "piece_id": "piece_004",
+      "area": 9906.5,
+      "bbox": [
+        194,
+        331,
+        125,
+        159
+      ],
+      "center": [
+        255.8866905567052,
+        409.7809014283551
+      ],
+      "features": {
+        "area": 9906.5,
+        "perimeter": 664.1681334972382,
+        "bbox": [
+          194,
+          331,
+          125,
+          159
+        ],
+        "center": [
+          255.8866905567052,
+          409.7809014283551
+        ],
+        "aspect_ratio": 0.78125,
+        "extent": 0.49545,
+        "solidity": 0.6668012516402544,
+        "mean_L": 12.815738025415445
+      }
+    }
+  ],
+  "diagnosis": null
+}

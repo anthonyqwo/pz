@@ -1,0 +1,25 @@
+{
+  "image": "C:\\Users\\kioki\\Downloads\\IMG_9263.jpg",
+  "piece_count": 0,
+  "pieces": [],
+  "outputs": {
+    "output_dir": "outputs\\debug_IMG_9263_filter_fast",
+    "original_numbered_path": "outputs\\debug_IMG_9263_filter_fast\\original_numbered.png",
+    "pieces_contours_path": "outputs\\debug_IMG_9263_filter_fast\\pieces_contours.png",
+    "black_mask_path": "outputs\\debug_IMG_9263_filter_fast\\black_mask.png",
+    "raw_dark_mask_path": "outputs\\debug_IMG_9263_filter_fast\\raw_dark_mask.png",
+    "cleaned_mask_path": "outputs\\debug_IMG_9263_filter_fast\\cleaned_mask.png",
+    "pieces_json_path": "outputs\\debug_IMG_9263_filter_fast\\pieces.json",
+    "crops": [],
+    "debug_json_path": "outputs\\debug_IMG_9263_filter_fast\\piece_detector_debug.json",
+    "all_components_overlay_path": "outputs\\debug_IMG_9263_filter_fast\\all_components_overlay.png",
+    "rejected_components_overlay_path": "outputs\\debug_IMG_9263_filter_fast\\rejected_components_overlay.png",
+    "kept_pieces_overlay_path": "outputs\\debug_IMG_9263_filter_fast\\kept_pieces_overlay.png"
+  },
+  "detector_debug": {
+    "raw_components": 3909,
+    "kept_pieces": 0,
+    "rejected_count": 3909,
+    "diagnosis": "filter_too_strict"
+  }
+}

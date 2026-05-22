@@ -1,0 +1,54 @@
+{
+  "image": "data\\samples\\input_001.png",
+  "piece_count": 1,
+  "pieces": [
+    {
+      "piece_id": "piece_001",
+      "contour": [
+        [
+          120,
+          100
+        ],
+        [
+          110,
+          230
+        ],
+        [
+          210,
+          275
+        ],
+        [
+          285,
+          210
+        ],
+        [
+          270,
+          105
+        ]
+      ],
+      "solidity": 0.9899767427501184,
+      "area": 24050.0,
+      "perimeter": 595.4391098022461,
+      "bbox": [
+        110,
+        100,
+        176,
+        176
+      ],
+      "center": [
+        195.2061677061677,
+        178.39743589743588
+      ],
+      "aspect_ratio": 1.0
+    }
+  ],
+  "outputs": {
+    "output_dir": "outputs\\quick_validate\\highlight_fix_check",
+    "original_numbered_path": "outputs\\quick_validate\\highlight_fix_check\\original_numbered.png",
+    "pieces_contours_path": "outputs\\quick_validate\\highlight_fix_check\\pieces_contours.png",
+    "black_mask_path": "outputs\\quick_validate\\highlight_fix_check\\black_mask.png",
+    "cleaned_mask_path": "outputs\\quick_validate\\highlight_fix_check\\cleaned_mask.png",
+    "pieces_json_path": "outputs\\quick_validate\\highlight_fix_check\\pieces.json",
+    "crops": []
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "raw_components": 14,
+  "kept_pieces": 4,
+  "rejected_components": [
+    {
+      "id": 5,
+      "area": 4.0,
+      "bbox": [
+        83,
+        564,
+        3,
+        2
+      ],
+      "bbox_area": 6.0,
+      "aspect_ratio": 1.5,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 80.0,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 6,
+      "area": 4.0,
+      "bbox": [
+        698,
+        585,
+        2,
+        2
+      ],
+      "bbox_area": 4.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 69.75,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 7,
+      "area": 18.0,
+      "bbox": [
+        106,
+        622,
+        5,
+        5
+      ],
+      "bbox_area": 25.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 71.27777777777777,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 8,
+      "area": 2014.0,
+      "bbox": [
+        1,
+        633,
+        57,
+        92
+      ],
+      "bbox_area": 5244.0,
+      "aspect_ratio": 0.6195652173913043,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 83.40417080436941,
+      "touches_border": true,
+      "reject_reasons": [
+        "mean_L_too_high",
+        "touches_border"
+      ]
+    },
+    {
+      "id": 9,
+      "area": 3.0,
+      "bbox": [
+        34,
+        653,
+        2,
+        2
+      ],
+      "bbox_area": 4.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 75.33333333333333,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 10,
+      "area": 3.0,
+      "bbox": [
+        120,
+        664,
+        2,
+        2
+      ],
+      "bbox_area": 4.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 72.66666666666667,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 11,
+      "area": 6.0,
+      "bbox": [
+        60,
+        671,
+        3,
+        3
+      ],
+      "bbox_area": 9.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 81.16666666666667,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small",
+        "mean_L_too_high"
+      ]
+    },
+    {
+      "id": 12,
+      "area": 43968.0,
+      "bbox": [
+        0,
+        803,
+        309,
+        221
+      ],
+      "bbox_area": 68289.0,
+      "aspect_ratio": 1.3981900452488687,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 21.341088973799128,
+      "touches_border": true,
+      "reject_reasons": [
+        "area_too_large",
+        "bbox_too_large",
+        "touches_border"
+      ]
+    },
+    {
+      "id": 13,
+      "area": 1.0,
+      "bbox": [
+        751,
+        832,
+        1,
+        1
+      ],
+      "bbox_area": 1.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 71.0,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    },
+    {
+      "id": 14,
+      "area": 1.0,
+      "bbox": [
+        160,
+        862,
+        1,
+        1
+      ],
+      "bbox_area": 1.0,
+      "aspect_ratio": 1.0,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 63.0,
+      "touches_border": false,
+      "reject_reasons": [
+        "area_too_small",
+        "bbox_too_small"
+      ]
+    }
+  ],
+  "kept_components": [
+    {
+      "piece_id": "piece_001",
+      "area": 14053.0,
+      "bbox": [
+        536,
+        482,
+        145,
+        176
+      ],
+      "center": [
+        609.4367039066392,
+        567.2067530064755
+      ],
+      "features": {
+        "area": 14053.0,
+        "perimeter": 689.9830131530762,
+        "bbox": [
+          536,
+          482,
+          145,
+          176
+        ],
+        "center": [
+          609.4367039066392,
+          567.2067530064755
+        ],
+        "aspect_ratio": 0.8248587570621468,
+        "extent": 0.544094884296881,
+        "solidity": 0.7714528695270493,
+        "mean_L": 26.997634782608692
+      }
+    },
+    {
+      "piece_id": "piece_002",
+      "area": 13709.0,
+      "bbox": [
+        202,
+        556,
+        172,
+        149
+      ],
+      "center": [
+        285.4580810659664,
+        629.3779998541104
+      ],
+      "features": {
+        "area": 13709.0,
+        "perimeter": 677.3339095115662,
+        "bbox": [
+          202,
+          556,
+          172,
+          149
+        ],
+        "center": [
+          285.4580810659664,
+          629.3779998541104
+        ],
+        "aspect_ratio": 1.1533333333333333,
+        "extent": 0.5304046242774566,
+        "solidity": 0.7720656289440471,
+        "mean_L": 20.50408583812975
+      }
+    },
+    {
+      "piece_id": "piece_003",
+      "area": 11503.0,
+      "bbox": [
+        429,
+        312,
+        137,
+        156
+      ],
+      "center": [
+        491.9668492277376,
+        389.2275058680344
+      ],
+      "features": {
+        "area": 11503.0,
+        "perimeter": 623.7160551548004,
+        "bbox": [
+          429,
+          312,
+          137,
+          156
+        ],
+        "center": [
+          491.9668492277376,
+          389.2275058680344
+        ],
+        "aspect_ratio": 0.8789808917197452,
+        "extent": 0.5310624942305917,
+        "solidity": 0.743377697376922,
+        "mean_L": 21.544198660903465
+      }
+    },
+    {
+      "piece_id": "piece_004",
+      "area": 10145.0,
+      "bbox": [
+        193,
+        331,
+        126,
+        160
+      ],
+      "center": [
+        255.53088549367502,
+        409.9716609167077
+      ],
+      "features": {
+        "area": 10145.0,
+        "perimeter": 663.4827873706818,
+        "bbox": [
+          193,
+          331,
+          126,
+          160
+        ],
+        "center": [
+          255.53088549367502,
+          409.9716609167077
+        ],
+        "aspect_ratio": 0.782608695652174,
+        "extent": 0.502612639258602,
+        "solidity": 0.6762170049078127,
+        "mean_L": 14.641342588190549
+      }
+    }
+  ],
+  "diagnosis": null
+}

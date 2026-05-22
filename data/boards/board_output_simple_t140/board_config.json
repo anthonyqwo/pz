@@ -1,0 +1,46 @@
+{
+  "board_id": "board_output_simple_t140",
+  "version": 1,
+  "rectified_size": [
+    3000,
+    2000
+  ],
+  "marker_type": "auto_photo",
+  "slots": [],
+  "source_image": "D:\\pz\\output.jpg",
+  "detected_corners": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      4095.0,
+      0.0
+    ],
+    [
+      4095.0,
+      2979.0
+    ],
+    [
+      0.0,
+      2979.0
+    ]
+  ],
+  "transform_matrix": [
+    [
+      0.7323565323565323,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.6710305471634777,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ]
+}

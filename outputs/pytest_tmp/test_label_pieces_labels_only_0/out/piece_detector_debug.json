@@ -1,0 +1,61 @@
+{
+  "raw_components": 2,
+  "kept_pieces": 1,
+  "rejected_components": [
+    {
+      "id": 1,
+      "area": 3694.0,
+      "bbox": [
+        0,
+        20,
+        56,
+        66
+      ],
+      "bbox_area": 3696.0,
+      "aspect_ratio": 0.8484848484848485,
+      "extent": 0.0,
+      "hull_area": 0.0,
+      "solidity": 0.0,
+      "mean_L": 11.0,
+      "touches_border": true,
+      "reject_reasons": [
+        "touches_border"
+      ]
+    }
+  ],
+  "kept_components": [
+    {
+      "piece_id": "piece_001",
+      "area": 8360.5,
+      "bbox": [
+        95,
+        45,
+        101,
+        111
+      ],
+      "center": [
+        134.04626916253014,
+        99.87048222793692
+      ],
+      "features": {
+        "area": 8360.5,
+        "perimeter": 373.51543056964874,
+        "bbox": [
+          95,
+          45,
+          101,
+          111
+        ],
+        "center": [
+          134.04626916253014,
+          99.87048222793692
+        ],
+        "aspect_ratio": 0.918918918918919,
+        "extent": 0.7387387387387387,
+        "solidity": 0.9181119648737651,
+        "mean_L": 7.14610161554671
+      }
+    }
+  ],
+  "diagnosis": null
+}

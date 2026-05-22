@@ -1,0 +1,126 @@
+{
+  "image": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\input.png",
+  "piece_count": 1,
+  "pieces": [
+    {
+      "piece_id": "piece_001",
+      "contour": [
+        [
+          96,
+          45
+        ],
+        [
+          95,
+          46
+        ],
+        [
+          95,
+          153
+        ],
+        [
+          101,
+          155
+        ],
+        [
+          154,
+          155
+        ],
+        [
+          158,
+          154
+        ],
+        [
+          160,
+          149
+        ],
+        [
+          160,
+          134
+        ],
+        [
+          161,
+          132
+        ],
+        [
+          189,
+          107
+        ],
+        [
+          195,
+          99
+        ],
+        [
+          190,
+          93
+        ],
+        [
+          160,
+          66
+        ],
+        [
+          160,
+          51
+        ],
+        [
+          158,
+          45
+        ]
+      ],
+      "solidity": 0.9181119648737651,
+      "aspect_ratio": 0.9099099099099099,
+      "extent": 0.7387387387387387,
+      "mean_L": 7.14610161554671,
+      "component_id": 2,
+      "features": {
+        "area": 8360.5,
+        "perimeter": 373.51543056964874,
+        "bbox": [
+          95,
+          45,
+          101,
+          111
+        ],
+        "center": [
+          134.04626916253014,
+          99.87048222793692
+        ],
+        "aspect_ratio": 0.918918918918919,
+        "extent": 0.7387387387387387,
+        "solidity": 0.9181119648737651,
+        "mean_L": 7.14610161554671
+      },
+      "area": 8360.5,
+      "perimeter": 373.51543056964874,
+      "bbox": [
+        95,
+        45,
+        101,
+        111
+      ],
+      "center": [
+        134.04626916253014,
+        99.87048222793692
+      ]
+    }
+  ],
+  "outputs": {
+    "output_dir": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out",
+    "original_numbered_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\original_numbered.png",
+    "pieces_contours_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\pieces_contours.png",
+    "black_mask_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\black_mask.png",
+    "raw_dark_mask_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\raw_dark_mask.png",
+    "cleaned_mask_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\cleaned_mask.png",
+    "pieces_json_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\pieces.json",
+    "crops": [],
+    "debug_json_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\piece_detector_debug.json",
+    "all_components_overlay_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\all_components_overlay.png",
+    "rejected_components_overlay_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\rejected_components_overlay.png",
+    "kept_pieces_overlay_path": "D:\\pz\\scratch\\pytest_temp\\test_label_pieces_labels_only_0\\out\\kept_pieces_overlay.png"
+  },
+  "detector_debug": {
+    "raw_components": 2,
+    "kept_pieces": 1,
+    "rejected_count": 1,
+    "diagnosis": null
+  }
+}
